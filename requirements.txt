@@ -1,0 +1,8 @@
+geopandas
+matplotlib
+openpyxl
+pandas
+plotly
+pyvi
+seaborn
+wordcloud
